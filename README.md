@@ -1,16 +1,15 @@
 # ASL Translator
 
-Add short description of project here > 
+This code aims to translate American Sign Language (ASL) letters to text on your computer. 
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+For my project I decided to train AI on understanding letters in ASL. I re-trained the ResNet-18 model on 750 images per letter, including delete, space, and none. This will allow the user to either upload a photo or a image stream (from a camera or video scource) and output it to a file, a Real-Time Streaming Protocol (RTSP), or WebRTC. 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. 
 
 [View a video explanation here](video link)
