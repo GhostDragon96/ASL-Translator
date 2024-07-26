@@ -2,7 +2,7 @@
 
 This code aims to translate American Sign Language (ASL) letters to text on your computer. 
 
-![add image descrition here](direct image link here)
+![97% E](relative%20E-out.jpg?raw=true "Title")
 
 ## The Algorithm
 
